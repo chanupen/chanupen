@@ -2,7 +2,7 @@
 
 # Chandan Kumar
 
-**DevOps / SRE · Platform Engineering**
+**Senior DevOps / SRE · Platform Engineering**
 
 Noida / Delhi NCR, India
 
