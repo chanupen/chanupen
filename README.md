@@ -37,6 +37,7 @@ Events:
   Normal  Scaled    Platform ops across 50+ AWS accounts and 50+ EKS namespaces
   Normal  Saved     ~15% Kubernetes spend, ~20% database spend, ~30% AWS bill
   Normal  Removed   Manual certificate renewals: 100+ certs, zero missed since
+
 ```
 
 ## <img src="https://img.shields.io/badge/-%20-0f766e?style=flat-square" height="18" /> About
