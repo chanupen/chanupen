@@ -1,12 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-label="Chandan Kumar, Senior DevOps / Site Reliability Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Chandan Kumar, Senior DevOps / Site Reliability Engineer">
+  <defs>
+    <linearGradient id="rule" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#2dd4bf"/>
+      <stop offset="0.75" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
   <style>
-    .name { font-family: Palatino, 'Palatino Linotype', 'Book Antiqua', 'URW Palladio L', Georgia, serif; font-size: 50px; fill: #e6edf3; letter-spacing: 0.5px; }
-    .role { font-family: Charter, 'Bitstream Charter', 'Charis SIL', Georgia, serif; font-size: 22px; fill: #e6edf3; }
+    .name { font-family: Palatino, 'Palatino Linotype', 'Book Antiqua', 'URW Palladio L', Georgia, serif; font-size: 52px; fill: #e6edf3; letter-spacing: 0.5px; }
+    .role { font-family: Charter, 'Bitstream Charter', 'Charis SIL', Georgia, serif; font-size: 22px; fill: #2dd4bf; }
     .meta { font-family: Charter, 'Bitstream Charter', 'Charis SIL', Georgia, serif; font-size: 16px; fill: #9198a1; }
+    .dot  { fill: #38bdf8; }
   </style>
-  <text x="450" y="66" text-anchor="middle" class="name">Chandan Kumar</text>
-  <text x="450" y="104" text-anchor="middle" class="role">Senior DevOps / Site Reliability Engineer · Platform Engineering</text>
-  <line x1="300" y1="126" x2="600" y2="126" stroke="#3d444d" stroke-width="1"/>
-  <text x="450" y="154" text-anchor="middle" class="meta">AWS · Kubernetes · Terraform · GitOps · Observability · AI for operations</text>
-  <text x="450" y="178" text-anchor="middle" class="meta">13+ years in production · Noida, India · Open to Senior and Staff roles</text>
+  <text x="450" y="68" text-anchor="middle" class="name">Chandan Kumar</text>
+  <text x="450" y="106" text-anchor="middle" class="role">Senior DevOps / Site Reliability Engineer · Platform Engineering</text>
+  <rect x="220" y="126" width="460" height="2" rx="1" fill="url(#rule)"/>
+  <text x="450" y="158" text-anchor="middle" class="meta">AWS · Kubernetes · Terraform · GitOps · Observability · AI for operations</text>
+  <text x="450" y="184" text-anchor="middle" class="meta">13+ years in production · Noida, India · Open to Senior and Staff roles</text>
 </svg>
