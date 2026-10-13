@@ -6,7 +6,7 @@
   <img src="assets/header-light.svg" alt="Chandan Kumar, Senior DevOps / Site Reliability Engineer" width="100%" />
 </picture>
 
-<a href="https://www.linkedin.com/in/connectchandan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:chan.upen@gmail.com"><img src="https://img.shields.io/badge/chan.upen@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="chan.upen@gmail.com" /></a> <a href="https://www.credly.com/users/chanupen"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" /></a>
+<a href="https://chanupen.github.io"><img src="https://img.shields.io/badge/Website-chanupen.github.io-0f766e?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a> <a href="https://www.linkedin.com/in/connectchandan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:chan.upen@gmail.com"><img src="https://img.shields.io/badge/chan.upen@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="chan.upen@gmail.com" /></a> <a href="https://www.credly.com/users/chanupen"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" /></a>
 
 <p>
   <img src="https://img.shields.io/badge/Experience-13%2B%20years-0f766e?style=flat-square" />
